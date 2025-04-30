@@ -50,7 +50,7 @@
 ## 📫 Let's Connect  
 📧 nasir.nasir6428@gmail.com  
 📞 +92 322 2934139  
-🔗 [LinkedIn](#) *(optional)*  
+🔗 [LinkedIn](#) *(www.linkedin.com/in/nasir-ali-9642a5329)*  
 
 ---
 
