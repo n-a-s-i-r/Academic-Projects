@@ -40,7 +40,6 @@
 - Implemented **transaction security** in academic projects  
 
 ## 📂 Project Structure (E-Commerce)
-ecommerce-project/
 ├── database/
 │   ├── demo.sql             # Complete database schema
 │   ├── transactions.sql     # Payment/cancellation logic
