@@ -36,7 +36,23 @@
 
 ## 📌 Key Achievements
 - **3.9/4.0 CGPA** at Air University Multan  
-- Developed **100% self-written MySQL database and Bank Management system(C++)** for e-commerce project  
+- Developed **100% self-written MySQL database** for e-commerce project  
 - Implemented **transaction security** in academic projects  
 
 ## 📂 Project Structure (E-Commerce)
+/database
+├── demo.sql # Complete schema + stored procedures
+├── transactions.sql # Payment/cancellation logic
+└── admin_views.sql # Analytics queries
+/frontend # GPT-assisted
+
+
+## 📫 Let's Connect  
+📧 nasir.nasir6428@gmail.com  
+📞 +92 322 2934139  
+🔗 [LinkedIn](#) *(optional)*  
+
+---
+
+🛡️ **Honesty Disclaimer:**  
+*"While some projects used AI assistance for frontend, all database work and core algorithms were independently developed."*
