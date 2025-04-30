@@ -36,7 +36,7 @@
 
 ## 📌 Key Achievements
 - **3.9/4.0 CGPA** at Air University Multan  
-- Developed **100% self-written MySQL database** for e-commerce project  
+- Developed **100% self-written MySQL database and Bank Management system(C++)** for e-commerce project  
 - Implemented **transaction security** in academic projects  
 
 ## 📂 Project Structure (E-Commerce)
