@@ -3,10 +3,10 @@
 
 ## 🛠️ Technical Skills
 **Core Competencies:**  
-`MySQL` `Database Design` `Stored Procedures` `C++` `Python` `OOP`  
+ `C++` `Python` `OOP`  `DSA`  `SQL` `Database Design` `Stored Procedures`
 
 **Exposure:**  
-`OpenCV` `Computer Networks` `Figma` `DSA`  
+`OpenCV` `Computer Networks` `Figma` 
 
 ## 🎓 Academic Projects
 
