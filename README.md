@@ -39,12 +39,14 @@
 - Developed **100% self-written MySQL database** for e-commerce project  
 - Implemented **transaction security** in academic projects  
 
-## 📂 Project Structure (E-Commerce)
+```
+📂 Project Structure (E-Commerce)
 ├── database/
 │   ├── demo.sql             # Complete database schema
 │   ├── transactions.sql     # Payment/cancellation logic
 │   └── admin_views.sql      # Analytics queries
 └── README.md                # Project documentation
+```
 
 
 ## 📫 Let's Connect  
